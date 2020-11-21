@@ -32,8 +32,8 @@
 
 <h3> Connect with Me </h3>
 
-<p>
-<a href="https://www.linkedin.com/in/accretence/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Accretence-gray?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/accretence/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Accretence-gray?style=flat&logo=instagram"></a>
-<a href="mailto:accretence@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Accretence-gray?style=flat&logo=gmail"></a>
-</p>
+- <a href="mailto:accretence@gmail.com">Gmail</a>
+- <a href="https://www.angel.co/accretence">Angellist</a>
+- <a href="https://www.linkedin.com/in/accretence/">Linkedin</a>
+- <a href="https://www.instagram.com/accretence/">Instagram</a>
+- <a href="https://www.twitter.com/accretence/">Twitter</a>
